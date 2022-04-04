@@ -68,6 +68,6 @@ University: Samara University, Applied Mathematics and Computer Science
 *****
 
 ### Languages:
-* English Beginner
-* German Beginner
-* Russian  Native
+* English - Beginner
+* German - Beginner
+* Russian - Native
