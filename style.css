@@ -1,1 +1,8 @@
-
+head {
+  font:10px 'Roboto' ;
+}
+h1 {
+    background: #87CEEB; /* Цвет фона под заголовком */
+    color: dark; /* Цвет текста */
+    padding: 2px; /* Поля вокруг текста */
+}
